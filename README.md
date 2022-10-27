@@ -6,8 +6,10 @@
 *Flowchart Menghitung Luas dan Keliling lingkaran*
 ![00  Flowchart praktikum 3](https://user-images.githubusercontent.com/115614668/198234232-37ab2dd5-a350-4d53-b5d5-75433db7a2e7.png)
 
-- Langkah-langkah membuat program menghitung Luas dan Keliling lingkaran
-1. Memasukan nilai Jari-jari  
+# Langkah-langkah membuat program menghitung Luas dan Keliling lingkaran #
+-----------------------------------------------------
+
+[1. Memasukan nilai Jari-jari] 
 ![01  Masukan nilai](https://user-images.githubusercontent.com/115614668/198234238-a693ecfe-22e6-45e8-9b65-ed877457c190.png)
 
 2. Deklarasikan variabel pi = 3.14, otomatis menggunakan tipe data float karena bernilai desimal

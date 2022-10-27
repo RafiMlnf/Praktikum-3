@@ -32,10 +32,13 @@ Langkah-langkah membuat program menghitung Luas dan Keliling lingkaran
 
 ![05  Hasil](https://user-images.githubusercontent.com/115614668/198234253-006362cd-3437-4500-9a15-4f7194f4be84.png)
 
-6. Opsi lainnya tambahkan `"{:.*f}".format()` berguna untuk memotong atau membatasi karakter dibelakang koma desimal dengan tipe float `.f`
+6. Opsi lain
 
+> Tammbahkan `"{:.*f}".format()` berguna untuk memotong atau membatasi karakter dibelakang koma desimal dengan tipe float `.f`
 ![06  Opsi lain](https://user-images.githubusercontent.com/115614668/198234256-f204fb00-099f-49a6-b7ff-98e001446242.png)
 
+
 7. Run python code dan ini hasilnya
+> Nomor atau karakter yang berada di belakang koma desimal akan dibatasi 
 
 ![07  Hasil opsi lain](https://user-images.githubusercontent.com/115614668/198234261-4503135a-7c64-46df-a599-5772827ea4e3.png)

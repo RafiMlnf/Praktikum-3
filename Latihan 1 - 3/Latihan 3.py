@@ -1,5 +1,5 @@
 # String format bintang bentuk ketupat
-print("Hello, ini script Python Praktikum 3\n")
+print("Hello, ini script Python\n")
 
 print('{0:>3} {1:>16}'.format(" ", '*'*1))
 print('{0:>3} {1:>17}'.format(" ", '*'*3))

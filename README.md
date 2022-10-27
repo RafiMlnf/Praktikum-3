@@ -28,17 +28,18 @@ Langkah-langkah membuat program menghitung Luas dan Keliling lingkaran
 
 ![04  Cetak hasil](https://user-images.githubusercontent.com/115614668/198234248-314a6e56-81fc-409d-9f8c-e6e787159875.png)
 
-5. Run code python dan lihat hasilnya di kolom terminal
+5. Run python code dan lihat hasilnya di kolom terminal
+> Masukan nilai jari-jari lingkaran yang ingin dihitung, maka secara otomatis program akan mencetak hasil dengan sendirinya
 
 ![05  Hasil](https://user-images.githubusercontent.com/115614668/198234253-006362cd-3437-4500-9a15-4f7194f4be84.png)
 
 6. Opsi lain
 
-> Tambahkan `"{:.*f}".format()`
+> Tambahkan `"{:.*f}".format()`. Simbol bintang pada .*f bisa diubah dengan angka 
 
 ![06  Opsi lain](https://user-images.githubusercontent.com/115614668/198234256-f204fb00-099f-49a6-b7ff-98e001446242.png)
 
 7. Run python code dan ini hasilnya
-> Maka nomor atau karakter yang berada di belakang koma desimal akan dibatasi 
+> Maka dari itu nomor atau karakter yang berada di belakang koma desimal akan dibatasi 
 
 ![07  Hasil opsi lain](https://user-images.githubusercontent.com/115614668/198234261-4503135a-7c64-46df-a599-5772827ea4e3.png)

@@ -10,15 +10,17 @@ Langkah-langkah membuat program menghitung Luas dan Keliling lingkaran
 -----------------------------------------------------
 
 1. Memasukan nilai Jari-jari  
-> Nantinya kode ini akan mencetak nilai input yang akan diisi
+> Nantinya ini akan mencetak nilai input yang akan diisi
 
 ![01  Masukan nilai](https://user-images.githubusercontent.com/115614668/198234238-a693ecfe-22e6-45e8-9b65-ed877457c190.png)
 
-2. Deklarasikan variabel `pi = 3.14` otomatis menggunakan tipe data float karena bernilai desimal
+2. Deklarasikan variabel
+> Deklarasikan variabel `pi = 3.14` otomatis menggunakan tipe data float karena bernilai desimal
 
 ![02  Deklarasi phi](https://user-images.githubusercontent.com/115614668/198234242-aeec13af-4b1f-46a7-93ad-95ac9cd261e3.png)
 
-3. Implementasikan rumus perhitungan luas dan keliling lingkaran dengan rumus `luas = pi (3,14) kalikan (*)` dengan nilai jari-jari yang dimasukan `int (r) * int (r) dan rumus keliling = 2 * pi * int(r)`
+3. Implementasikan rumus perhitungan luas dan keliling lingkaran
+> Masukan rumus `luas = pi (3,14) kalikan (*)` dengan nilai jari-jari yang dimasukan `int (r) * int (r) dan rumus keliling = 2 * pi * int(r)`
 
 ![03  Implementasi L K](https://user-images.githubusercontent.com/115614668/198234244-481fd733-1a1f-42ff-ada0-0babf2f794e4.png)
 

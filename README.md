@@ -10,6 +10,7 @@ Langkah-langkah membuat program menghitung Luas dan Keliling lingkaran
 -----------------------------------------------------
 
 1. Memasukan nilai Jari-jari  
+> Nantinya kode ini akan mencetak nilai input yang akan diisi
 
 ![01  Masukan nilai](https://user-images.githubusercontent.com/115614668/198234238-a693ecfe-22e6-45e8-9b65-ed877457c190.png)
 

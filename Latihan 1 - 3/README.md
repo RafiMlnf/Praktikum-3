@@ -1,14 +1,14 @@
 # Penjelasan latihan 1 - 3
 
-*Latihan 1*
+*Latihan 1*  
 1.Parameter END
-Parameter end berfungsi untuk mengganti karakter terakhir bawaan yang dicetak di layar. jadi, setiap memanggil fungsi print() untuk mencetak sesuatu, python akan mencetak karakter ganti baris disetiap output.
+Parameter end berfungsi untuk mengganti karakter terakhir bawaan yang dicetak di layar. jadi, setiap memanggil fungsi print() untuk mencetak sesuatu, python akan mencetak karakter ganti baris disetiap output.  
 
 2.Separator
-Ketika memanggil fungsi print() untuk menampilkan multi argument, python akan otomatis menambahkan karakter spasi pemisah antar argumen tersebut. jika tidak ingin pemisah spasi, maka bisa menambahkan parameter separator saat memanggil fungsi print()
+Ketika memanggil fungsi print() untuk menampilkan multi argument, python akan otomatis menambahkan karakter spasi pemisah antar argumen tersebut. jika tidak ingin pemisah spasi, maka bisa menambahkan parameter separator saat memanggil fungsi print()  
 
 3.String Format
-Fungsi format() berfungsi untuk melakukan pengaturan format string yang akan dicetak atau ditampilkan ke monitor.
+Fungsi format() berfungsi untuk melakukan pengaturan format string yang akan dicetak atau ditampilkan ke monitor.  
 
 *Latihan 2*
 
